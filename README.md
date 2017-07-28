@@ -11,7 +11,7 @@ README.md
 
 **Connected Files**
 
-`database_setup.py`
+`hi.txt`
 
 ### Configuration Instructions
 `main.py`
