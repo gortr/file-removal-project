@@ -13,6 +13,11 @@ README.md
 
 `hi.txt`
 
+**Planned Implementations**
+
+- Implement a menu feature where the user can browse files and select them via the explorer.
+- Add more functionality as to options for the file being erased, choose multiple files, etc.
+
 ### Configuration Instructions
 `main.py`
 
